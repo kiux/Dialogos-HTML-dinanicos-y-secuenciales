@@ -6,4 +6,4 @@
 <p><strong>Ejemplo:</strong></p>
 ["Nombre","Edad","Idioma","País"]
 <h2>¿Cuántos diálogos puede procesar?</h2>
-<p>Cualquier número de diálogos. El número de diálogos HTML corresponde al número de elementos dentro del areglo de diálogos, por lo tanto el número de diálogos puede ser <strong>"mayor o igual" que CERO</strong>.</p>
+<p>Cualquier número de diálogos. El número de diálogos HTML es igual al número de elementos del areglo de diálogos, por lo tanto el número de diálogos puede ser <strong>"mayor o igual" que CERO</strong>.</p>
