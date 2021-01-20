@@ -5,3 +5,4 @@
 <p>Se debe poner un "arreglo JSON" (JSON array) en el INPUT correspondiente a 'arreglo de "diálogos"'.</p>
 <p><strong>Ejemplo:</strong></p>
 ["Nombre","Edad","Idioma","País"]
+<p>El número de diálogos HTML corresponde al número de elementos dentro del areglo de diálogos, por lo tanto el número de diálogos puede "mayor o igual" que CERO.</p>
