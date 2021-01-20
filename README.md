@@ -6,4 +6,4 @@
 <p><strong>Ejemplo:</strong></p>
 ["Nombre","Edad","Idioma","País"]
 <h2>¿Cuántos diálogos puede procesar?</h2>
-<p>Cualquier número de diálogos. El número de diálogos HTML es igual al número de elementos del areglo de diálogos, por lo tanto el número de diálogos puede ser <strong>"mayor o igual" que CERO</strong>.</p>
+<p>Cualquier cantidad porque el número de diálogos HTML será igual a la longitud del areglo JSON con los diálogos, es decir que el número de diálogos podrá ser <strong>"mayor o igual" que CERO</strong>. Un arreglo "vacío" también en válido, en cuyo caso significa que no se procesará ningún diálogo.</p>
