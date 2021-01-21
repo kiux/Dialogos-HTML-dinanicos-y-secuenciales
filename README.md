@@ -1,3 +1,4 @@
+<h1>Diálogos HTML dinámicos y secuenciales (sin promesas)</h1>
 <h2>Descripción</h2>
 <p>Este proyecto muestra cómo crear diálogos HTML de manera dinámica, en la misma página y ejecutándolos secuencialmente, considerando que solo se podrá tener y procesar "uno a la vez" en el DOM.</p>
 
